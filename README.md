@@ -1,8 +1,8 @@
-### Hi there 👋
+<!--### Hi there 👋
 🌱 I’m currently pursuing B.Tech Computer Science Engineering at VRSEC   
 :closed_book: I am interested in learning new languages  
 :smiley: I am fascinated with machine learning and web technologies  
-<!--
+
 **Bhharathee-Athuluri/Bhharathee-Athuluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
